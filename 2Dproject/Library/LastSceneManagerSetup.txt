@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Demo/DemoScene.unity
+=======
+- path: Assets/Scenes/BasicMovementAndAni.unity
+>>>>>>> refs/remotes/origin/main
   isLoaded: 1
   isActive: 1
   isSubScene: 0
