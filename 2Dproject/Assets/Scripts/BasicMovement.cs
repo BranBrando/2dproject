@@ -14,7 +14,7 @@ public class BasicMovement: MonoBehaviour
     void Update()
     {
 
-     Vector3 horizontal = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f);
+        Vector3 horizontal = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f);
         transform.position = transform.position + horizontal * Time.deltaTime;
         
 
