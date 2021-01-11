@@ -4,97 +4,97 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 5288188997765318534
-    second: Top_Left_Corner_Tile
+    second: Dungeon-2D-PixelArt-Tileset_0
   - first:
       213: -2672306381724259459
-    second: Top_Wall_Tile
+    second: Dungeon-2D-PixelArt-Tileset_1
   - first:
       213: 6764832518669002963
-    second: Top_Right_Corner_Tile
+    second: Dungeon-2D-PixelArt-Tileset_2
   - first:
       213: -8859803436593824983
-    second: Floor_Tiled_Cracked2
+    second: Dungeon-2D-PixelArt-Tileset_3
   - first:
       213: -9141938605990679566
-    second: Floor_Cracked
+    second: Dungeon-2D-PixelArt-Tileset_4
   - first:
       213: 2056942473736830267
     second: Dungeon-2D-PixelArt-Tileset_5
   - first:
       213: -5225876556858284812
-    second: Top_Left_Dungeon_Door_Closed
+    second: Dungeon-2D-PixelArt-Tileset_6
   - first:
       213: -3094171731127790719
-    second: Top_Middle_Dungeon_Door_Closed
+    second: Dungeon-2D-PixelArt-Tileset_7
   - first:
       213: -6558360575689610975
-    second: Top_Right_Dungeon_Door_Closed
+    second: Dungeon-2D-PixelArt-Tileset_8
   - first:
       213: 8925430282067451464
-    second: Left_Wall_Tile
+    second: Dungeon-2D-PixelArt-Tileset_9
   - first:
       213: 4017470158936073506
-    second: Floor_Flat
+    second: Dungeon-2D-PixelArt-Tileset_10
   - first:
       213: -7920979180335983864
-    second: Right_Wall_Tile
+    second: Dungeon-2D-PixelArt-Tileset_11
   - first:
       213: 2365339308313440513
-    second: Bottom_Left_Dungeon_Door_Closed
+    second: Dungeon-2D-PixelArt-Tileset_12
   - first:
       213: -6085209271259904505
-    second: Bottom_Middle_Dungeon_Door_Closed
+    second: Dungeon-2D-PixelArt-Tileset_13
   - first:
       213: -7743214850641337493
-    second: Bottom_Right_Dungeon_Door_Closed
+    second: Dungeon-2D-PixelArt-Tileset_14
   - first:
       213: 5170418447652190022
-    second: Floor_Tiled_flat
+    second: Dungeon-2D-PixelArt-Tileset_15
   - first:
       213: 6961584852583578572
-    second: Floor_Tiled_Cracked
+    second: Dungeon-2D-PixelArt-Tileset_16
   - first:
       213: 2161171272659936262
-    second: Mossy_Wall_Tile3
+    second: Dungeon-2D-PixelArt-Tileset_17
   - first:
       213: -7272623609870431233
-    second: Bottom_Left_Corner_Tile
+    second: Dungeon-2D-PixelArt-Tileset_18
   - first:
       213: 4768812464063954029
-    second: Bottom_Wall_Tile
+    second: Dungeon-2D-PixelArt-Tileset_19
   - first:
       213: -451775213456855256
-    second: Bottom_Right_Corner_Tile
+    second: Dungeon-2D-PixelArt-Tileset_20
   - first:
       213: -3697355384244169913
-    second: Top_Left_Dungeon_Door_Opened
+    second: Dungeon-2D-PixelArt-Tileset_21
   - first:
       213: -5767162948771900228
-    second: Top_Middle_Dungeon_Door_Opened
+    second: Dungeon-2D-PixelArt-Tileset_22
   - first:
       213: 7145941756167820797
-    second: Top_Right_Dungeon_Door_Opened
+    second: Dungeon-2D-PixelArt-Tileset_23
   - first:
       213: 3957419326524138300
-    second: Mossy_Wall_Tile2
+    second: Dungeon-2D-PixelArt-Tileset_24
   - first:
       213: -1820933343298804998
-    second: Mossy_Wall_Tile1
+    second: Dungeon-2D-PixelArt-Tileset_25
   - first:
       213: -4584001840792588798
-    second: Barrel
+    second: Dungeon-2D-PixelArt-Tileset_26
   - first:
       213: 8145951374611147372
-    second: Potion
+    second: Dungeon-2D-PixelArt-Tileset_27
   - first:
       213: 457820117542733627
-    second: Bottom_Left_Dungeon_Door_Opened
+    second: Dungeon-2D-PixelArt-Tileset_28
   - first:
       213: -6975971501963557229
-    second: Bottom_Middle_Dungeon_Door_Opened
+    second: Dungeon-2D-PixelArt-Tileset_29
   - first:
       213: -7265388314283571386
-    second: Bottom_Right_Dungeon_Door_Opened
+    second: Dungeon-2D-PixelArt-Tileset_30
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -176,11 +176,23 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Top_Left_Corner_Tile
+      name: Dungeon-2D-PixelArt-Tileset_0
       rect:
         serializedVersion: 2
         x: 128
@@ -188,7 +200,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -201,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Wall_Tile
+      name: Dungeon-2D-PixelArt-Tileset_1
       rect:
         serializedVersion: 2
         x: 160
@@ -209,7 +221,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -222,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Right_Corner_Tile
+      name: Dungeon-2D-PixelArt-Tileset_2
       rect:
         serializedVersion: 2
         x: 192
@@ -230,7 +242,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -243,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_Tiled_Cracked2
+      name: Dungeon-2D-PixelArt-Tileset_3
       rect:
         serializedVersion: 2
         x: 48
@@ -251,7 +263,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -264,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_Cracked
+      name: Dungeon-2D-PixelArt-Tileset_4
       rect:
         serializedVersion: 2
         x: 80
@@ -272,7 +284,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -293,7 +305,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -306,7 +318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Left_Dungeon_Door_Closed
+      name: Dungeon-2D-PixelArt-Tileset_6
       rect:
         serializedVersion: 2
         x: 208
@@ -314,7 +326,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -327,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Middle_Dungeon_Door_Closed
+      name: Dungeon-2D-PixelArt-Tileset_7
       rect:
         serializedVersion: 2
         x: 224
@@ -335,7 +347,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -348,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Right_Dungeon_Door_Closed
+      name: Dungeon-2D-PixelArt-Tileset_8
       rect:
         serializedVersion: 2
         x: 240
@@ -356,7 +368,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -369,7 +381,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left_Wall_Tile
+      name: Dungeon-2D-PixelArt-Tileset_9
       rect:
         serializedVersion: 2
         x: 128
@@ -377,7 +389,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -390,7 +402,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_Flat
+      name: Dungeon-2D-PixelArt-Tileset_10
       rect:
         serializedVersion: 2
         x: 160
@@ -398,7 +410,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -411,7 +423,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Right_Wall_Tile
+      name: Dungeon-2D-PixelArt-Tileset_11
       rect:
         serializedVersion: 2
         x: 192
@@ -419,7 +431,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -432,7 +444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Left_Dungeon_Door_Closed
+      name: Dungeon-2D-PixelArt-Tileset_12
       rect:
         serializedVersion: 2
         x: 208
@@ -440,7 +452,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -453,7 +465,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Middle_Dungeon_Door_Closed
+      name: Dungeon-2D-PixelArt-Tileset_13
       rect:
         serializedVersion: 2
         x: 224
@@ -461,7 +473,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -474,7 +486,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Right_Dungeon_Door_Closed
+      name: Dungeon-2D-PixelArt-Tileset_14
       rect:
         serializedVersion: 2
         x: 240
@@ -482,7 +494,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -495,7 +507,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_Tiled_flat
+      name: Dungeon-2D-PixelArt-Tileset_15
       rect:
         serializedVersion: 2
         x: 16
@@ -503,7 +515,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -516,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_Tiled_Cracked
+      name: Dungeon-2D-PixelArt-Tileset_16
       rect:
         serializedVersion: 2
         x: 48
@@ -524,7 +536,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -537,7 +549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mossy_Wall_Tile3
+      name: Dungeon-2D-PixelArt-Tileset_17
       rect:
         serializedVersion: 2
         x: 80
@@ -545,7 +557,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -558,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Left_Corner_Tile
+      name: Dungeon-2D-PixelArt-Tileset_18
       rect:
         serializedVersion: 2
         x: 128
@@ -566,7 +578,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -579,7 +591,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Wall_Tile
+      name: Dungeon-2D-PixelArt-Tileset_19
       rect:
         serializedVersion: 2
         x: 160
@@ -587,7 +599,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -600,7 +612,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Right_Corner_Tile
+      name: Dungeon-2D-PixelArt-Tileset_20
       rect:
         serializedVersion: 2
         x: 192
@@ -608,7 +620,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -621,7 +633,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Left_Dungeon_Door_Opened
+      name: Dungeon-2D-PixelArt-Tileset_21
       rect:
         serializedVersion: 2
         x: 208
@@ -629,7 +641,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -642,7 +654,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Middle_Dungeon_Door_Opened
+      name: Dungeon-2D-PixelArt-Tileset_22
       rect:
         serializedVersion: 2
         x: 224
@@ -650,7 +662,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -663,7 +675,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top_Right_Dungeon_Door_Opened
+      name: Dungeon-2D-PixelArt-Tileset_23
       rect:
         serializedVersion: 2
         x: 240
@@ -671,7 +683,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -684,7 +696,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mossy_Wall_Tile2
+      name: Dungeon-2D-PixelArt-Tileset_24
       rect:
         serializedVersion: 2
         x: 64
@@ -692,7 +704,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -705,7 +717,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mossy_Wall_Tile1
+      name: Dungeon-2D-PixelArt-Tileset_25
       rect:
         serializedVersion: 2
         x: 96
@@ -713,7 +725,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -726,7 +738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barrel
+      name: Dungeon-2D-PixelArt-Tileset_26
       rect:
         serializedVersion: 2
         x: 160
@@ -734,7 +746,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -747,7 +759,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Potion
+      name: Dungeon-2D-PixelArt-Tileset_27
       rect:
         serializedVersion: 2
         x: 176
@@ -755,7 +767,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -768,7 +780,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Left_Dungeon_Door_Opened
+      name: Dungeon-2D-PixelArt-Tileset_28
       rect:
         serializedVersion: 2
         x: 208
@@ -776,7 +788,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -789,7 +801,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Middle_Dungeon_Door_Opened
+      name: Dungeon-2D-PixelArt-Tileset_29
       rect:
         serializedVersion: 2
         x: 224
@@ -797,7 +809,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -810,7 +822,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom_Right_Dungeon_Door_Opened
+      name: Dungeon-2D-PixelArt-Tileset_30
       rect:
         serializedVersion: 2
         x: 240
@@ -818,7 +830,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
